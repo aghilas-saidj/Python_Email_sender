@@ -1,7 +1,9 @@
-# Pythno_Email_sender
+# Python_Email_sender
 
 FIRST:
 You Must Turn on "Less secure app access" For Your GOOGLE Account.
+
+
 https://hotter.io/docs/email-accounts/secure-app-gmail/
 
 OR
